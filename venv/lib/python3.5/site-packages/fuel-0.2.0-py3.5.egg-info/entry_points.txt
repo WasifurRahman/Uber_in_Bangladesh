@@ -1,0 +1,5 @@
+[console_scripts]
+fuel-convert = fuel.bin.fuel_convert:main
+fuel-download = fuel.bin.fuel_download:main
+fuel-info = fuel.bin.fuel_info:main
+
